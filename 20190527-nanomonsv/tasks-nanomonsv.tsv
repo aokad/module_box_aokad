@@ -5,5 +5,3 @@ COLO829BL	s3://eva-bucket-tokyo/kataoka-lab/long_read_sequencing/cell-line/minim
 H2009	s3://eva-bucket-tokyo/kataoka-lab/long_read_sequencing/cell-line/minimap2/H2009.bam	s3://eva-bucket-tokyo/kataoka-lab/long_read_sequencing/cell-line/minimap2/H2009.bam.bai	s3://aokad-ana-tokyo/nanomon-sv/H2009/	
 HCC1954	s3://eva-bucket-tokyo/kataoka-lab/long_read_sequencing/cell-line/minimap2/HCC1954.bam	s3://eva-bucket-tokyo/kataoka-lab/long_read_sequencing/cell-line/minimap2/HCC1954.bam.bai	s3://aokad-ana-tokyo/nanomon-sv/HCC1954/	
 HCC1954BL	s3://eva-bucket-tokyo/kataoka-lab/long_read_sequencing/cell-line/minimap2/HCC1954BL.bam	s3://eva-bucket-tokyo/kataoka-lab/long_read_sequencing/cell-line/minimap2/HCC1954BL.bam.bai	s3://aokad-ana-tokyo/nanomon-sv/HCC1954BL/	
-	
-
